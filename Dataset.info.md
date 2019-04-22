@@ -1,12 +1,21 @@
-- PassengerId 乘客
+https://chtseng.wordpress.com/2017/12/24/kaggle-titanic倖存者預測-1/
+- PassengerId 乘客 ID
 - Survived 存活與否
-- Pclass 艙等
+  - 0: 死亡
+  - 1: 倖存
+- Pclass 倉票等集
+  - 1: 1st
+  - 2: 2nd
+  - 3: 3rd
 - Name 姓名
 - Sex 性別
 - Age 年齡
-- SibSp
-- Parch
-- Ticket
-- Fare
-- Cabin
-- Embarked
+- SibSp 船上同為兄弟姊妹或配偶的數目
+- Parch 船上同為家族的父母及小孩的數目
+- Ticket 船票編號
+- Fare 船票價格
+- Cabin 船艙號碼
+- Embarked 登船的口岸
+  - C = Cherbourg
+  - Q = Queenstown
+  - S = Southampton
