@@ -1,0 +1,1003 @@
+iteration = 0, training error rate = 32.099%
+pocket_err_rate: 32.098765432098766
+iteration = 1, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 2, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 3, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 4, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 5, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 6, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 7, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 8, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 9, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 10, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 11, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 12, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 13, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 14, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 15, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 16, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 17, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 18, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 19, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 20, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 21, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 22, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 23, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 24, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 25, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 26, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 27, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 28, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 29, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 30, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 31, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 32, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 33, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 34, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 35, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 36, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 37, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 38, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 39, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 40, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 41, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 42, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 43, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 44, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 45, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 46, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 47, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 48, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 49, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 50, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 51, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 52, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 53, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 54, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 55, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 56, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 57, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 58, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 59, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 60, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 61, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 62, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 63, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 64, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 65, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 66, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 67, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 68, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 69, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 70, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 71, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 72, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 73, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 74, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 75, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 76, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 77, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 78, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 79, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 80, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 81, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 82, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 83, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 84, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 85, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 86, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 87, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 88, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 89, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 90, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 91, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 92, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 93, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 94, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 95, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 96, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 97, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 98, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 99, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 100, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 101, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 102, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 103, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 104, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 105, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 106, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 107, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 108, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 109, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 110, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 111, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 112, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 113, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 114, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 115, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 116, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 117, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 118, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 119, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 120, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 121, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 122, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 123, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 124, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 125, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 126, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 127, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 128, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 129, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 130, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 131, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 132, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 133, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 134, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 135, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 136, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 137, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 138, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 139, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 140, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 141, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 142, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 143, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 144, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 145, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 146, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 147, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 148, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 149, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 150, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 151, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 152, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 153, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 154, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 155, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 156, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 157, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 158, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 159, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 160, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 161, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 162, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 163, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 164, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 165, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 166, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 167, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 168, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 169, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 170, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 171, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 172, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 173, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 174, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 175, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 176, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 177, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 178, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 179, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 180, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 181, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 182, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 183, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 184, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 185, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 186, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 187, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 188, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 189, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 190, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 191, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 192, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 193, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 194, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 195, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 196, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 197, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 198, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 199, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 200, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 201, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 202, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 203, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 204, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 205, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 206, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 207, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 208, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 209, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 210, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 211, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 212, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 213, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 214, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 215, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 216, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 217, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 218, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 219, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 220, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 221, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 222, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 223, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 224, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 225, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 226, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 227, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 228, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 229, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 230, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 231, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 232, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 233, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 234, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 235, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 236, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 237, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 238, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 239, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 240, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 241, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 242, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 243, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 244, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 245, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 246, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 247, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 248, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 249, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 250, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 251, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 252, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 253, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 254, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 255, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 256, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 257, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 258, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 259, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 260, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 261, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 262, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 263, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 264, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 265, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 266, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 267, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 268, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 269, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 270, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 271, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 272, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 273, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 274, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 275, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 276, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 277, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 278, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 279, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 280, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 281, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 282, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 283, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 284, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 285, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 286, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 287, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 288, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 289, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 290, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 291, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 292, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 293, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 294, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 295, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 296, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 297, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 298, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 299, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 300, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 301, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 302, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 303, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 304, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 305, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 306, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 307, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 308, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 309, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 310, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 311, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 312, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 313, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 314, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 315, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 316, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 317, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 318, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 319, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 320, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 321, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 322, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 323, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 324, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 325, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 326, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 327, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 328, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 329, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 330, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 331, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 332, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 333, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 334, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 335, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 336, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 337, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 338, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 339, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 340, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 341, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 342, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 343, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 344, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 345, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 346, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 347, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 348, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 349, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 350, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 351, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 352, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 353, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 354, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 355, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 356, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 357, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 358, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 359, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 360, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 361, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 362, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 363, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 364, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 365, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 366, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 367, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 368, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 369, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 370, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 371, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 372, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 373, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 374, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 375, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 376, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 377, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 378, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 379, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 380, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 381, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 382, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 383, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 384, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 385, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 386, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 387, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 388, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 389, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 390, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 391, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 392, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 393, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 394, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 395, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 396, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 397, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 398, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 399, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 400, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 401, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 402, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 403, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 404, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 405, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 406, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 407, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 408, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 409, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 410, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 411, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 412, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 413, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 414, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 415, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 416, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 417, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 418, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 419, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 420, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 421, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 422, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 423, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 424, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 425, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 426, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 427, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 428, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 429, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 430, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 431, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 432, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 433, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 434, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 435, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 436, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 437, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 438, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 439, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 440, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 441, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 442, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 443, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 444, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 445, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 446, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 447, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 448, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 449, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 450, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 451, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 452, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 453, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 454, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 455, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 456, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 457, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 458, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 459, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 460, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 461, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 462, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 463, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 464, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 465, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 466, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 467, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 468, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 469, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 470, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 471, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 472, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 473, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 474, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 475, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 476, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 477, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 478, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 479, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 480, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 481, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 482, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 483, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 484, training error rate = 32.548%
+pocket_err_rate: 32.098765432098766
+iteration = 485, training error rate = 33.109%
+pocket_err_rate: 32.098765432098766
+iteration = 486, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 487, training error rate = 32.884%
+pocket_err_rate: 32.098765432098766
+iteration = 488, training error rate = 32.997%
+pocket_err_rate: 32.098765432098766
+iteration = 489, training error rate = 33.446%
+pocket_err_rate: 32.098765432098766
+iteration = 490, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 491, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 492, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 493, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 494, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 495, training error rate = 33.221%
+pocket_err_rate: 32.098765432098766
+iteration = 496, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+iteration = 497, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 498, training error rate = 33.895%
+pocket_err_rate: 32.098765432098766
+iteration = 499, training error rate = 33.670%
+pocket_err_rate: 32.098765432098766
+Final W: [[ 0.90416795 -0.36260641]]
+Final b:0
+testing error rate = 0.000%
