@@ -1,3 +1,4 @@
+import copy
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
@@ -28,22 +29,23 @@ class PLA(object):
 
   def __init__(self, col):
 #   Init weights and bias
-    self.W = np.random.uniform(-1, 1, col)
-    self.b = np.random.uniform(-1, 1)
+    self.W = np.random.rand(1,col)
+    self.b = np.random.randint(-10,10)
+
+    self.pocket_err_rate = 100
 
 # Activation Function
   def sign(self, z):
 
-    if z == 0:
-      return -1
+    if z > 0:
+      return 1
 
-    return np.sign(z)
+    return -1
 
-# Train
+# 帶入
   def Forward(self, x):
 
     self.x = x
-# np.insert(x, 0, 1)
 
     self.z1 = np.dot(self.W, self.x)
     self.z1 += self.b
@@ -52,8 +54,10 @@ class PLA(object):
 
     return self.out
 
-  def Backward(self, y):
-
+# 權重修正
+  def Backward(self, y, rate= 1):
+    self.y = y * rate
+    self.W += np.dot(self.x, self.y)
 
 
   def err(self, prediction, truth):
@@ -63,15 +67,24 @@ class PLA(object):
 
     return False
 
+  def pocket(self, err):
+    if err < self.pocket_err_rate:
+      self.pocketW = copy.deepcopy(self.W)
+      self.pocket_err_rate = err
+
+
+  def getWeight(self):
+    print('pocket_err_rate: '+str(self.pocket_err_rate))
+
 if __name__ == '__main__':
 # 讀檔
   df = pd.read_csv('train.csv')
 # 創建 feature
   feature_0 = df[['Pclass', 'Sex', 'Age', 'SibSp', 'Parch']].copy(deep= True)
-  # feature_0_dropna = feature_0.copy(deep= True).dropna()
+  feature_0_dropna = feature_0.copy(deep= True).dropna()
 # 創建 label
   label = df['Survived'].copy(deep= True)
-  label.replace([0], -1) # PLA 二元分法為 1, -1
+  label = label.replace([0], -1) # PLA 二元分法為 1, -1
 # 資料清理
   data_preprocessing(feature_0)
   # data_preprocessing(feature_0_dropna, na= False)
@@ -81,7 +94,8 @@ if __name__ == '__main__':
 #   feature_1_dropna = feature_0_dropna[['Pclass', 'Sex', 'Age']].copy(deep= True)
 #   feature_2_dropna = feature_0_dropna[['Sex', 'Age']].copy(deep= True)
 # 迴圈上限
-  max_iter = 100
+  max_iter = 1000
+  learning_rate = 0.8
   pla = PLA(len(feature_0.columns))
 
   error_rate = []
@@ -90,12 +104,16 @@ if __name__ == '__main__':
     err_count = 0
 
     for i in range(df.shape[0]):
+
       prediction = pla.Forward(feature_0.iloc[i])
 
       if pla.err(prediction, label.iloc[i]):
         err_count += 1
-        pla.Backward()
+        pla.Backward(label.iloc[i], learning_rate)
 
-    error_rate.append((100.0 * err_count) / len(feature_0.columns))
-    print("iteration = %d, training error rate = %4.3f%%, loss = %6.5f"
-        % (epoch, error_rate[-1], loss[-1]) )
+    error_rate.append((100.0 * err_count) / df.shape[0])
+    pla.pocket(error_rate[-1])
+
+    print("iteration = %d, training error rate = %4.3f%%"
+        % (iter, error_rate[-1]) )
+    pla.getWeight()
