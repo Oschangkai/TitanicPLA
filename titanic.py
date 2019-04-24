@@ -94,10 +94,11 @@ if __name__ == '__main__':
 #   feature_1_dropna = feature_0_dropna[['Pclass', 'Sex', 'Age']].copy(deep= True)
 #   feature_2_dropna = feature_0_dropna[['Sex', 'Age']].copy(deep= True)
 # 迴圈上限
-  max_iter = 1000
+  max_iter = 100
   learning_rate = 0.8
   pla = PLA(len(feature_0.columns))
 
+# Training
   error_rate = []
   for iter in range(max_iter):
 
@@ -117,3 +118,20 @@ if __name__ == '__main__':
     print("iteration = %d, training error rate = %4.3f%%"
         % (iter, error_rate[-1]) )
     pla.getWeight()
+
+# Testing
+  dft = pd.read_csv('test.csv')
+  testing_0 = dft[['Pclass', 'Sex', 'Age', 'SibSp', 'Parch']].copy(deep= True)
+  label_test = pd.read_csv('gender_submission.csv')['Survived']
+  label_test = label_test.replace([0], -1)
+  data_preprocessing(testing_0)
+
+  err_count = 0
+  for i in range(dft.shape[0]):
+    prediction = pla.Forward(testing_0.iloc[i])
+    if pla.err(prediction, label_test.iloc[i]):
+        err_count += 1
+
+  error_rate.append((100.0 * err_count) / dft.shape[0])
+  print("testing error rate = %4.3f%%" % (error_rate[-1]))
+    
