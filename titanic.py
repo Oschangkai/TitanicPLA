@@ -107,7 +107,7 @@ if __name__ == '__main__':
 # 迴圈上限
   max_iter = 500
   learning_rate = 0.8 # 測試用權重
-  pla = PLA(len(feature_1.columns))
+  pla = PLA(len(feature_2_dropna.columns))
 
 # Training
   error_rate = []
@@ -115,16 +115,16 @@ if __name__ == '__main__':
 
     err_count = 0
 
-    for i in range(feature_1.shape[0]):
+    for i in range(feature_2_dropna.shape[0]):
 
-      prediction = pla.Forward(feature_1.iloc[i])
+      prediction = pla.Forward(feature_2_dropna.iloc[i])
 #     如果有錯
       if pla.err(prediction, label.iloc[i]):
         err_count += 1
 #       重新計算權重
         pla.Backward(label.iloc[i], learning_rate)
 #   計算錯誤率
-    error_rate.append((100.0 * err_count) / feature_1.shape[0])
+    error_rate.append((100.0 * err_count) / feature_2_dropna.shape[0])
     pla.pocket(error_rate[-1])
 
     print("iteration = %d, training error rate = %4.3f%%"
@@ -135,7 +135,7 @@ if __name__ == '__main__':
 
 # Testing
   dft = pd.read_csv('test.csv')
-  testing_0 = dft[['Pclass', 'Sex', 'Age']].copy(deep= True)
+  testing_0 = dft[['Sex', 'Age']].copy(deep= True)
   label_test = pd.read_csv('gender_submission.csv')['Survived']
   label_test = label_test.replace([0], -1)
   data_preprocessing(testing_0)
@@ -151,11 +151,12 @@ if __name__ == '__main__':
 # kaggle 專用
   predicts_0 = [p if p > 0 else 0 for p in predicts] # 轉換 -1 為 0
   result = pd.DataFrame({"PassengerId" : PassengerId, "Survived" : predicts_0})
-  result.to_csv('result.0.csv', index= 0)
+  result.to_csv('result.2.dropna.csv', index= 0)
 
   error_rate.append((100.0 * err_count) / dft.shape[0])
   print("testing error rate = %4.3f%%" % (error_rate[-1]))
 
 
-  ## 把 Age = NA 的 drop 的結果，對於 testing data 的 fitting 程度通常都低於 77%，故沒有放上
-  ## 只取 Age 和 Sex 對於 testing data 的 fitting 程度最高
+  ## 把 Age = NA 的 drop 的結果，對於 training data 的 fitting 程度通常都低於 77%，故沒有放上
+  ## 只取 Age 和 Sex 對於(假) testing data 的 fitting 程度最高
+  ## drop age 中的 na 對於資料是負幫助，準確率會下降
