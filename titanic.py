@@ -157,6 +157,5 @@ if __name__ == '__main__':
   print("testing error rate = %4.3f%%" % (error_rate[-1]))
 
 
-  ## 把 Age = NA 的 drop 的結果，對於 training data 的 fitting 程度通常都低於 77%，故沒有放上
+  ## 把 Age = NA 的 drop 的結果，對於 training data 的 fitting 程度通常都低於 70%
   ## 只取 Age 和 Sex 對於(假) testing data 的 fitting 程度最高
-  ## drop age 中的 na 對於資料是負幫助，準確率會下降
