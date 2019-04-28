@@ -1,4 +1,4 @@
-https://chtseng.wordpress.com/2017/12/24/kaggle-titanic倖存者預測-1/
+https://chtseng.wordpress.com/2017/12/24/kaggle-titanic倖存預測-1/
 - PassengerId 乘客 ID
 - Survived 存活與否
   - 0: 死亡
